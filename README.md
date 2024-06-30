@@ -2,12 +2,18 @@
 The project is done mainly with Power BI, with ficticious data obtained 
 on the Microsoft Power BI analyst certificate in Coursera.
 
+<br/>
+<br/>
+<br/>
 
 #### Task
 Analysis of sales performance (America's leading retailer of home improvement tools and items)
 Design a report for sales and profits of a commercial business that buys and sells products. 
 The most important key metrics and visuals and what possible insights we could get through their exploration.
 
+<br/>
+<br/>
+<br/>
 
 #### Proposal
 
@@ -16,6 +22,9 @@ and be able to take action decisions promptly and efficiently.
 With the business increasing its capacity and bigger market amplitude, in order to monitor a healthy trend of their profits, 
 they required the instrumentations and insights into what is keeping, if that is the case, the positive trend and how to maintain it.
 
+<br/>
+<br/>
+<br/>
 
 #### Extract
 
@@ -29,7 +38,9 @@ they required the instrumentations and insights into what is keeping, if that is
     * Method: Manual by Git Repository from Developer.
     * Condition: Clean.
 
-
+<br/>
+<br/>
+<br/>
 
 #### Transform
 
@@ -86,11 +97,12 @@ I have constructed a snowflake schema tailored for the data model, by establishi
 
 
 
-![Model view of the dataset](/images/ModelView.png)
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -128,7 +140,12 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -164,7 +181,12 @@ Slicer: Countries
 Filters page visuals, except Stock and Product Slicer.
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -193,7 +215,12 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
