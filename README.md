@@ -200,7 +200,8 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 Clustered Bar Chart:  Loyalty Points by Country
-Points programs allow customers to earn points when they spend, and the points can then be redeemed at a later date.
+Points programs allow customers to earn points when they spend, 
+and the points can then be redeemed at a later date.
 Showing the most loyal customers.
 
 Column/Bar chart:  Net Sales By Customers and location
@@ -248,7 +249,8 @@ Showing which suppliers are more reliable and possible represent a better busine
 
 Card visuals: Stock 
 Inventory levels. Can be used to compare the average inventory value to the average sales value.
-Determine how quickly they're liquidating stock, and how much capital they have invested in inventory.
+Determine how quickly they're liquidating stock, 
+and how much capital they have invested in inventory.
 
 
 Slicer: Product Category
@@ -260,5 +262,62 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+#### Optimization
+
+The stakeholders will appreciate a report/dashboard that is fast, efficient and runs smoothly. 
+Sometimes complex DAX queries (if working with Power BI) or visualization, useless data, 
+and bad data model decisions, make long loading time and hard interaction with dynamic visuals. 
+In order to avoid this, we need to optimize it.
+Power BI has a tool to observe some parameters that will help,by running the Performance Analyzer,
+we can enhance report generation and ensure fast loading times. 
+
+Results came positive. Efficient Report.
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 #### Findings
+
+United Arab Emirates leads on Revenue having a 63% of sales followed
+by France, UK, Australia, and at the bottom is the USA.
+<br/>
+In 5 months we have seen an overall sales downward trend
+with a forecast dipping more to the bottom.
+<br/>
+Australia, and the UK are going down, the United Arabs Emirates is strongly growing
+followed by France and USA.
+<br/>
+Very radical trend sales with most of them on July taking the trend up, then suffering a decline in August, 
+following very strong spikes up at the end of August and at the beginning of September, 
+going back down in the beginning of October 
+(to observe these add "day" to date in x-axis on visualization format). 
+This appears to be the normal yearly trend behavior, at least until we obtain more data.
+<br/>
+Profits also show a great difference in revenue in July and October. 
+Furniture, Gardening, and lighting are the biggest source of profit.
+<br/>
+Security appears as the highest median sales by category
+due to that it consists of only one expensive product, that is very popular. 
+Probably the allocation of more resources in this category will be convenient.
+<br/>
+Amelia Carter is one of the 10 top buyers and loyal customer, 
+having Alice has her sales representative.
+
+
+
+
+
