@@ -294,26 +294,44 @@ Results came positive. Efficient Report.
 
 United Arab Emirates leads on Revenue having a 63% of sales followed
 by France, UK, Australia, and at the bottom is the USA.
+
 <br/>
+<br/>
+
 In 5 months we have seen an overall sales downward trend
 with a forecast dipping more to the bottom.
+
 <br/>
+<br/>
+
 Australia, and the UK are going down, the United Arabs Emirates is strongly growing
 followed by France and USA.
+
 <br/>
+<br/>
+
 Very radical trend sales with most of them on July taking the trend up, then suffering a decline in August, 
 following very strong spikes up at the end of August and at the beginning of September, 
 going back down in the beginning of October 
 (to observe these add "day" to date in x-axis on visualization format). 
 This appears to be the normal yearly trend behavior, at least until we obtain more data.
+
 <br/>
+<br/>
+
 Profits also show a great difference in revenue in July and October. 
 Furniture, Gardening, and lighting are the biggest source of profit.
+
 <br/>
+<br/>
+
 Security appears as the highest median sales by category
 due to that it consists of only one expensive product, that is very popular. 
 Probably the allocation of more resources in this category will be convenient.
+
 <br/>
+<br/>
+
 Amelia Carter is one of the 10 top buyers and loyal customer, 
 having Alice has her sales representative.
 
