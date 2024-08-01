@@ -1,4 +1,4 @@
-### E-commerce-Sales-And-Profits-Report
+### E-commerce Sales And Profits Report
 The project is done mainly with Power BI, with ficticious data obtained 
 on the Microsoft Power BI analyst certificate in Coursera.
 
@@ -18,7 +18,7 @@ The most important key metrics and visuals and what possible insights we could g
 #### Proposal
 
 The need to create a system that will help this business to have a clear view of their sales analytics, 
-and be able to take action decisions promptly and efficiently. 
+and be able to take action/decisions promptly and efficiently. 
 With the business increasing its capacity and bigger market amplitude, in order to monitor a healthy trend of their profits, 
 they required the instrumentations and insights into what is keeping, if that is the case, the positive trend and how to maintain it.
 
@@ -80,7 +80,7 @@ I have fixed syntax errors, data types errors, and duplicates from the different
 
 ###### Database Model Design: 
 
-I have constructed a snowflake schema tailored for the data model, by establishing and specifying the relationships between the tables in the data model.
+I have constructed a snowflake schema tailored for the dataset, by establishing and specifying the relationships between the tables in the data model.
 
 
 
