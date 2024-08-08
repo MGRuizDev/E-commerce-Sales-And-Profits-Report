@@ -1,15 +1,15 @@
 ### E-commerce Sales And Profits Report
-The project is done mainly with Power BI, with ficticious data obtained 
-on the Microsoft Power BI analyst certificate in Coursera.
+The project is done mainly with Power BI, and it is a ficticious company which data was obtained 
+through the Microsoft Power BI analyst certificate in Coursera.
 
 <br/>
 <br/>
 <br/>
 
 #### Task
-Analysis of sales performance (America's leading retailer of home improvement tools and items)
-Design a report for sales and profits of a commercial business that buys and sells products. 
-The most important key metrics and visuals and what possible insights we could get through their exploration.
+Analysis of sales performance for one of America's leading retailer of home improvement tools and items.
+Design a report for sales and profits of this commercial business that buys and sells products. 
+Share the most important key metrics and visuals and what possible insights we could get through their exploration.
 
 <br/>
 <br/>
@@ -19,7 +19,7 @@ The most important key metrics and visuals and what possible insights we could g
 
 The need to create a system that will help this business to have a clear view of their sales analytics, 
 and be able to take action/decisions promptly and efficiently. 
-With the business increasing its capacity and bigger market amplitude, in order to monitor a healthy trend of their profits, 
+With the business increasing its capacity and wider market amplitude, in order to monitor a healthy trend of their profits, 
 they required the instrumentations and insights into what is keeping, if that is the case, the positive trend and how to maintain it.
 
 <br/>
@@ -48,7 +48,7 @@ Prepare the sales data worksheet to ensure accuracy.
 
 ##### CLEANING. 
 
-Working with copied data.
+The original files had been safely storage, so I will work with copied data.
 I have fixed syntax errors, data types errors, and duplicates from the different tables.
 
 ##### TRANSFORMATION. 
@@ -57,8 +57,8 @@ I have fixed syntax errors, data types errors, and duplicates from the different
 
         * Calendar: for temporal data analysis and reporting.
         * Sales in USD: sales and profits metrics, to consolidate data on US Dollar.
-        * PurchaseMissingData: There was missing data from Purchase table. 
-		It was needed to create a new table with the missed data to Append it to Purchase.
+        * PurchaseMissingData: There was missing data from Purchase table, which would cause false results. 
+		It was needed to create a new table with the missed data that was recovered, then append it to the Purchase table.
 
   ###### New Columns Created: 
 
@@ -120,8 +120,8 @@ The median sale price measures the “middle” price of items that sold (half o
 Measure of central tendency for skewed distributions or distributions with outliers.
 
 Line chart: Median sales over time
-Forcast: Set Units to Days, Length to 2, Confidence interval to 99%.
-We notice the trend suffer a decline over time.
+with a forcast; Set Units to Days, Length to 2, Confidence interval to 99%.
+I noticed the trend suffered a decline over time.
 
 Card Visual: Median Sales 
 
