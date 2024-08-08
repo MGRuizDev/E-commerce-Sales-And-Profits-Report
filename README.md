@@ -299,7 +299,8 @@ by France, UK, Australia, and at the bottom is the USA.
 <br/>
 
 In 5 months we have seen an overall sales downward trend
-with a forecast dipping more to the bottom.
+with a forecast dipping more to the bottom. Working with such small data (merely about a year), 
+this might assume a normal trend that is looking at its bottom to go back up in the next months.
 
 <br/>
 <br/>
@@ -314,7 +315,7 @@ Very radical trend sales with most of them on July taking the trend up, then suf
 following very strong spikes up at the end of August and at the beginning of September, 
 going back down in the beginning of October 
 (to observe these add "day" to date in x-axis on visualization format). 
-This appears to be the normal yearly trend behavior, at least until we obtain more data.
+This appears to be the normal yearly trend behavior, at least until I obtain more data.
 
 <br/>
 <br/>
