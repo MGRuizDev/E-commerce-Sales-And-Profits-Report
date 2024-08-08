@@ -115,28 +115,28 @@ I have constructed a snowflake schema tailored for the dataset, by establishing 
 ![Sales Overview page of report](/images/SalesOverview.png)
 
 
-Pie Chart: Median Sales distribution by country
+Pie Chart: Median Sales distribution by country. <br/>
 The median sale price measures the “middle” price of items that sold (half of the items sold for a higher price and half sold for less). 
 Measure of central tendency for skewed distributions or distributions with outliers.
 
-Line chart: Median sales over time
-with a forcast; Set Units to Days, Length to 2, Confidence interval to 99%.
+Line chart: Median sales over time. <br/>
+With a forcast; Set Units to Days, Length to 2, Confidence interval to 99%.
 I noticed the trend suffered a decline over time.
 
-Card Visual: Median Sales 
+Card Visual: Median Sales. 
 
 
-Map: Gross Revenue and Net Revenue USD by country.
+Map: Gross Revenue and Net Revenue USD by country. <br/>
 The money the business earns by selling a product or service.
 Gross revenue are earnings before deducting expenses.
 Net revenue are earnings after subtracting expenses.
 
-Table: Product categories - net revenue - best selling product - best selling customer
+Table: Product categories - net revenue - best selling product - best selling customer. <br/>
 By showing the best selling product and customers you can allocate resources and efforts to the top performers.
 
 
-Slicer: Countries
-Filters page visuals, except Stock and Product Slicer.
+Slicer: Countries. <br/>
+Filters page visuals.
 
 
 
@@ -158,27 +158,27 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
-Donut Chart: Yearly Profit Margin by Country
+Donut Chart: Yearly Profit Margin by Country. <br/>
 Low margin is 5%, a healthy margin is 10%, and a high margin is 20% but can vary across industries. 
 Value in percentage that shows how much profit a company makes for each dollar of revenue after subtracting costs.
 
-Area Chart: Yearly Profit Margin over Time
+Area Chart: Yearly Profit Margin over Time. <br/>
 Profit margin metrics can help companies understand their financial health and make decisions to improve it.
 
 
-Card visuals: YTD Profit  and  Quarterly Profit
+Card visuals: YTD Profit  and  Quarterly Profit. <br/>
 The amount of profit or loss an investment has made since the beginning of the current year.
 
-Line chart: Cost vs Revenue over time
-Comparison of these to trends give us a perspective of how close they are getting to each other,
+Line chart: Cost vs Revenue over time. <br/>
+Comparison of these two trends give us a perspective of how close they are getting to each other,
 and the downward trend they are following.
 
-Cluster Bar: Total taxes - Total cost - Net Revenue
-Another perspective of these important values.
+Cluster Bar: Total taxes - Total cost - Net Revenue. <br/>
+Another perspective of the relation of these important values.
 
 
-Slicer: Countries
-Filters page visuals, except Stock and Product Slicer.
+Slicer: Countries. <br/>
+Filters page visuals.
 
 
 <br/>
@@ -199,20 +199,20 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
-Clustered Bar Chart:  Loyalty Points by Country
+Clustered Bar Chart:  Loyalty Points by Country. <br/>
 Points programs allow customers to earn points when they spend, 
 and the points can then be redeemed at a later date.
 Showing the most loyal customers.
 
-Column/Bar chart:  Net Sales By Customers and location
+Column/Bar chart:  Net Sales By Customers and location. <br/>
 Showing the customer value and the country with most of the sales.
 
-Scattered chart: Customer median Sales by Sales Rep.
-Showing the Customer and Sales Representative relation, and sales effect.
+Scattered chart: Customer median Sales by Sales Rep. <br/>
+Showing the Customers with their Sales Representatives relation, and sales effectivity.
 
 
-Slicer: Countries
-Filters page visuals, except Stock and Product Slicer.
+Slicer: Countries <br/>
+Filters page visuals.
 
 
 
@@ -234,30 +234,30 @@ Filters page visuals, except Stock and Product Slicer.
 
 
 
-Column Chart: Quantity Sold by Product Category and Product Name having Drilldown function.
+Column Chart: Quantity Sold by Product Category and Product Name having Drilldown function. <br/>
 Showing what product is more popular.
 What products have high demand, or have gain preference by customers.
 
 
-Pie chart: Median Sales by Product Category
+Pie chart: Median Sales by Product Category. <br/>
 Showing the Top Performers Categories.
 
 
-Column or Bar: Highest rank suppliers
+Column or Bar: Highest rank suppliers. <br/>
 Showing which suppliers are more reliable and possible represent a better business relation.
 
 
-Card visuals: Stock 
+Card visuals: Stock. <br/>
 Inventory levels. Can be used to compare the average inventory value to the average sales value.
 Determine how quickly they're liquidating stock, 
 and how much capital they have invested in inventory.
 
 
-Slicer: Product Category
+Slicer: Product Category. <br/>
 Sync only to the stock card visual. Showing individual stock by category.
 
 
-Slicer: Countries
+Slicer: Countries. <br/>
 Filters page visuals, except Stock and Product Slicer.
 
 
@@ -277,10 +277,10 @@ The stakeholders will appreciate a report/dashboard that is fast, efficient and 
 Sometimes complex DAX queries (if working with Power BI) or visualization, useless data, 
 and bad data model decisions, make long loading time and hard interaction with dynamic visuals. 
 In order to avoid this, we need to optimize it.
-Power BI has a tool to observe some parameters that will help,by running the Performance Analyzer,
-we can enhance report generation and ensure fast loading times. 
+Power BI has a tool to observe some parameters that I can, if need it, adjust to improve the performance; 
+by running the Performance Analyzer tool, I can enhance report generation and ensure fast loading times. 
 
-Results came positive. Efficient Report.
+After using the tool the results came positive. This is an Efficient Report.
 
 
 <br/>
